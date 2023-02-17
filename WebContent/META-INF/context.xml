@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/keshe2020" reloadable="true">
+<!--   <Resource name="jdbc/ds" -->
+<!--         auth="Container"    -->
+<!--         type="javax.sql.DataSource"                     -->
+<!--         factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"    -->
+<!--         maxActive="10"   -->
+<!--         maxIdle="30"     -->
+<!--         maxWait="1000"   -->
+<!--         username="root"   -->
+<!--         password="root"  -->
+<!--         driverClassName="net.sf.log4jdbc.DriverSpy"  -->
+<!--         url="jdbc:log4jdbc:mysql://localhost:3306/st2015?characterEncoding=UTF-8" />  -->
+    
+</Context>
